@@ -12,8 +12,11 @@ This Arduino is connected to the servos of the robot arm and receives the values
 # Future Plans:
 I plan to replace the Arduino Unos with ESP32s, which will allow me to make it wireless and use the wired I2C as a backup. This is a very big upgrade, but I think I can pull it off with just the right amount of time.
 
-# Links:
-Video: https://cloud-ih66h08m0-hack-club-bot.vercel.app/0robot-arm-video.mp4
-Picture: https://cloud-gqmhao9w4-hack-club-bot.vercel.app/0robot-arm-picture.jpg
+# Videos:
+![Video1](https://cloud-ih66h08m0-hack-club-bot.vercel.app/0robot-arm-video.mp4)
+![Video2](https://cloud-kjqq1pnk7-hack-club-bot.vercel.app/1robot_arm_video2.mp4)
 
+# Pictures:
+![Picture1](https://cloud-kjqq1pnk7-hack-club-bot.vercel.app/0robot-arm-picture2.jpg)
+![Picture2](https://cloud-gqmhao9w4-hack-club-bot.vercel.app/0robot-arm-picture.jpg)
 / Hilding
